@@ -1,5 +1,5 @@
 import React from 'react';
-import Pertemuan4 from "../Components/pertemuan4";
+import Pertemuan4 from "../components/pertemuan4";
 import Button from '../components/button';
 
 
